@@ -1,22 +1,20 @@
-# NearestNeighbors
+#NearestNeighbors to find similar wikipedia articles. 
 
-NearestNeighbors to find similar article. 
+##Using following Distance Metric
 
-
-Using following Distance Metric
 (1). Ecludean
 
 (2). Cosine
 
 
-Using following document representation
+##Using following document representation
 
 (1). Bag of Words
 
 (2). TF-IDF(Term Frequency-Inverse Document Frequency)
 
 
-Using following Model
+##Using following Model
 
 (1) Brute-Force
 
